@@ -1,8 +1,8 @@
 name: icu
 description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+version: 0.0.2
+author: TruongSinh Tran-Nguyen <i@truongsinh.pro>
+homepage: https://github.com/truongsinh/icu-flutter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
